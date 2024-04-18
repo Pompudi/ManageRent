@@ -1,0 +1,19 @@
+[
+    {
+        "id": 3,
+        "name": "Анна Горшкова",
+        "phome": "89999999999",
+        "email":"mm@mail.ru",
+        "objectIds": [101, 102],
+        "docsIds" : [101]
+    },
+    {
+        "id": 4,
+        "name": "Евгений Софронов",
+        "phome": "89999999998",
+        "email":"ee@mail.ru",
+        "objectIds": [103],
+        "docsIds" : [102]
+    }
+]
+    

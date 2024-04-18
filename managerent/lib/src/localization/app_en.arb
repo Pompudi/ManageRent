@@ -1,0 +1,6 @@
+{
+  "appTitle": "managerent",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
